@@ -1,0 +1,40 @@
+
+
+/* ----- ======= Theme CSS ======= ------ */
+/* --- Slider Section -- */ 
+#home{
+	background-image:url('../images/');
+	background-size:cover;
+	
+}
+#home p{
+	color:#f68712;
+}
+#contactMail h3{
+	color:#f68712;
+}
+#contactMail a{
+	background-color:white;
+	color:black;
+}
+#contactMail a:hover{
+	background-color:black;
+	color:white;
+}
+#contact .input-group-text{
+	width:40px;
+}
+button, .btn{
+	box-shadow:none!important;
+	outline:0!important;
+}
+/* ----- ======= Global Media CSS ======= ------ */
+
+
+@media (max-width:1100px) {
+	
+}
+
+@media (max-width:576px) {
+	
+}
